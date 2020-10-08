@@ -1,5 +1,7 @@
 #Machine Learning with Python
 
+![](Header-photo.png)
+
 ## Prediction
 - [X] Simple Linear Regression
 - [X] Multiple Linear Regression
