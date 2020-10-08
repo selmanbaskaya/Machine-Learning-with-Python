@@ -11,14 +11,14 @@
 - [X] Random Forest 
 
 ## Classification
-- [] Logistic Regression
-- [] K-NN
-- [] Support Vector Machine
-- [] Naive Bayes
-- [] Decision Tree
-- [] Random Forest
+- [ ] Logistic Regression
+- [ ] K-NN
+- [ ] Support Vector Machine
+- [ ] Naive Bayes
+- [ ] Decision Tree
+- [ ] Random Forest
 
 ## Clustering
-- [] K-Means
-- [] APriori 
-- [] Eclat 
+- [ ] K-Means
+- [ ] APriori 
+- [ ] Eclat 
